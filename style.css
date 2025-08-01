@@ -1,0 +1,154 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing: border-box;
+}
+
+.nav1{
+    background-color: blueviolet;
+    display:flex;
+    gap:9px;
+    justify-content: space-between;
+    align-items: center;
+    color:white;
+    padding : 10px 20px;
+}
+
+.logo{
+    color:white;
+    font-size:18px;
+    text-decoration: none;
+}
+
+.i1{
+    color : white;
+    padding : 5px;
+}
+
+.i2{
+    color:white;
+    padding: 5px;
+}
+
+.i3{
+    color:white;
+    padding: 5px;
+}
+
+.navs{
+    font-size: 12px;
+    text-decoration: none;
+
+}
+
+.container{
+    background-color: blueviolet;
+    display: flex;
+    gap:50px;
+}
+
+.box1{
+    padding:20px;
+    margin:25px;
+}
+
+.head1{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:25px;
+}
+
+.but{
+    background-color: rgba(5, 247, 247, 0.87);
+    color:white;
+    border-radius: 11px;
+    font-size:8px;
+    padding : 6px;
+}
+
+.but1{
+    font-size:8px;
+    background-color: blueviolet;
+    color:white;
+    padding : 3px;
+    margin : 10px;
+
+}
+
+.read{
+    background-color: white;
+    color:rgb(8, 173, 238);
+    padding: 6px;
+    font-size:8px;
+    border:rgb(14, 177, 241) solid 2px;
+}
+
+.about1{
+    display:flex;
+    font-size: 12px;
+    gap:50px;
+    background-color: azure;
+
+}
+
+.text1{
+    
+    padding:10px;
+    margin:8px 0px 0px 40px;
+
+}
+.text2{
+    
+    padding:10px;
+    margin:10px;
+}
+
+.div3{
+    display:flex;
+    background-color: rgb(212, 183, 152);
+    gap:20px;
+    
+}
+
+.img1{
+    margin:40px 20px 40px 40px;
+    
+}
+
+.img2{
+    text-indent: 30px;
+    font-size:12px;
+    height:300;
+    width:200;
+    padding:50px;
+}
+
+.read1{
+    background-color: rgb(247, 237, 237);
+    color:rgb(8, 11, 12);
+    padding: 6px;
+    font-size:8px;
+    border:rgb(5, 5, 5) solid 2px;
+}
+
+#contact{
+    background-color: antiquewhite;
+    margin:15px;
+    padding:25px;
+    font-size:20px;
+    display:flex;
+    gap : 110px;
+}
+
+form{
+    font-size:12px;
+}
+
+#sub{
+    font-size:8px;
+    background-color: blueviolet;
+    color:white;
+    padding : 3px;
+    margin : 10px;
+
+}
